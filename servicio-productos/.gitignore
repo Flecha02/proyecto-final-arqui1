@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno y configuración sensible
+.env
+
+# Logs de ejecución y errores
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# Directorios de compilación / distribución
+dist/
+build/
+out/
+
+# Archivos propios del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
